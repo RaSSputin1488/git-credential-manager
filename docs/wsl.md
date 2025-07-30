@@ -117,5 +117,4 @@ Windows operating system.
 [configuring-wsl-without-git-for-windows]: #configuring-wsl-without-git-for-windows
 [latest-git-for-windows]: https://github.com/git-for-windows/git/releases/latest
 [latest-gcm]: https://aka.ms/gcm/latest
-[wsl-interop]: https://docs.microsoft.com/en-us/windows/wsl/interop
-[linux-installation]: ../README.md#linux
+[wsl-interop]: https://docs.microsoft.com/en-linux
