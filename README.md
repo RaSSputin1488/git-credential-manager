@@ -1,1 +1,1 @@
-read tapes and cds
+oread tapes and cds
