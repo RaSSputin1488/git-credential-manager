@@ -1,8 +1,0 @@
-",
-            "stopAtEntry": fal,
-        },
-        {
-            "name": ".NET Attach",
-            "type": "coreclr",
-            "request": "attach",
-            "proce
